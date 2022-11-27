@@ -13,7 +13,7 @@
   </div>
 </div>
   
- <div style="diplay: inline-block" align="center">
+ <div style="diplay: inline-block; gap: 10px" align="center">
   <img align="center" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
