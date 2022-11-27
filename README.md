@@ -33,7 +33,7 @@
   <img align="center" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
  </div>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandrin&theme=tokyonight&bg_color=00000000#gh-dark-mode-only)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandrin&theme=tokyonight&bg_color=00000000#gh-dark-mode-only) -->
   
 
 
